@@ -1,26 +1,26 @@
 [
-    {
-	"id":"1",
-	"Nombre":"Juan",
-    "Apellido":"Álvarez",
-	"Edad":"11"
-    },
-    {
-	"id":"2",
-    "Nombre":"Antonio",
-    "Apellido":"García",
-	"Edad":"22"
-    },
-    {
-	"id":"3",
-    "Nombre":"Luis",
-    "Apellido":"Herrera",
-	"Edad":"33"
-    },
-	{
-	"id":"4",
-    "Nombre":"Carlos",
-    "Apellido":"Ibáñez",
-	"Edad":"44"
-    }
+{
+"id":"1",
+"Nombre":"Juan",
+"Apellido":"Álvarez",
+"Edad":"11"
+},
+{
+"id":"2",
+"Nombre":"Antonio",
+"Apellido":"García",
+"Edad":"22"
+},
+{
+"id":"3",
+"Nombre":"Luis",
+"Apellido":"Herrera",
+"Edad":"33"
+},
+{
+"id":"4",
+"Nombre":"Carlos",
+"Apellido":"Ibáñez",
+"Edad":"44"
+}
 ]
